@@ -3,3 +3,10 @@ body {
   color: white;
   height: 100vh;
 }
+
+a:hover {
+}
+
+.hover:hover {
+  text-decoration: underline;
+}
