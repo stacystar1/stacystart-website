@@ -5,8 +5,19 @@ body {
 }
 
 a:hover {
+  color: white;
 }
 
 .hover:hover {
   text-decoration: underline;
+}
+a {
+  text-decoration: none;
+  color: red;
+  padding: 5px;
+}
+
+a:hover {
+  color: rgb(0, 238, 255);
+  border-bottom: 2px solid black;
 }
