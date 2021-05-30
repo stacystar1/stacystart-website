@@ -10,6 +10,7 @@ a:hover {
 
 .hover:hover {
   text-decoration: underline;
+  font: 500px;
 }
 a {
   text-decoration: none;
